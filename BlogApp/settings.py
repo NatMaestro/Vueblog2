@@ -15,7 +15,7 @@ SECRET_KEY = 'django-insecure-q5i339(-4*e+u-5p&$=#guse-pct^1jle)^^kxq#^0d0g1g4-h
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = os.getenv('DEBUG',True)
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1','https://blogapp-proud-forest-9967.fly.dev/','blogapp-c8h2.onrender.com','52.204.20.137']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1','https://blogapp-proud-forest-9967.fly.dev/','blogapp-c8h2.onrender.com','52.204.20.137','52.204.20.137:8000']
 # CSRF_TRUSTED_ORIGINS = ['https://blogapp-proud-forest-9967.fly.dev/','https://blogapp-c8h2.onrender.com']  # <-- Updated!
 
 
