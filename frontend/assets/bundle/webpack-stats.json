@@ -1,0 +1,43 @@
+{
+  "status": "done",
+  "assets": {
+    "favicon.ico": {
+      "name": "favicon.ico",
+      "path": "E:\\softwareEng\\BlogApp\\blogapp\\frontend\\assets\\bundle\\favicon.ico",
+      "publicPath": "http://localhost:8080/favicon.ico",
+      "sourceFilename": "public/favicon.ico"
+    },
+    "index.html": {
+      "name": "index.html",
+      "path": "E:\\softwareEng\\BlogApp\\blogapp\\frontend\\assets\\bundle\\index.html",
+      "publicPath": "http://localhost:8080/index.html"
+    },
+    "main-1ea93fd3ea52ddb5.js": {
+      "name": "main-1ea93fd3ea52ddb5.js",
+      "path": "E:\\softwareEng\\BlogApp\\blogapp\\frontend\\assets\\bundle\\main-1ea93fd3ea52ddb5.js",
+      "publicPath": "http://localhost:8080/main-1ea93fd3ea52ddb5.js"
+    },
+    "main-bef43d6011d0fa2c.js": {
+      "name": "main-bef43d6011d0fa2c.js",
+      "path": "E:\\softwareEng\\BlogApp\\blogapp\\frontend\\assets\\bundle\\main-bef43d6011d0fa2c.js",
+      "publicPath": "http://localhost:8080/main-bef43d6011d0fa2c.js"
+    },
+    "main.bef43d6011d0fa2c.hot-update.js": {
+      "name": "main.bef43d6011d0fa2c.hot-update.js",
+      "path": "E:\\softwareEng\\BlogApp\\blogapp\\frontend\\assets\\bundle\\main.bef43d6011d0fa2c.hot-update.js",
+      "publicPath": "http://localhost:8080/main.bef43d6011d0fa2c.hot-update.js"
+    },
+    "main.bef43d6011d0fa2c.hot-update.json": {
+      "name": "main.bef43d6011d0fa2c.hot-update.json",
+      "path": "E:\\softwareEng\\BlogApp\\blogapp\\frontend\\assets\\bundle\\main.bef43d6011d0fa2c.hot-update.json",
+      "publicPath": "http://localhost:8080/main.bef43d6011d0fa2c.hot-update.json"
+    }
+  },
+  "chunks": {
+    "main": [
+      "main-1ea93fd3ea52ddb5.js",
+      "main.bef43d6011d0fa2c.hot-update.js"
+    ]
+  },
+  "publicPath": "http://localhost:8080/"
+}
